@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @duncan1409
-- 👀 I’m interested in programming the game.
+- 👀 I’m interested in programming the game
 - 🌱 I’m currently learning C++ and Unreal Engine
 - 💞️ I’m looking to collaborate on game programmer
 
