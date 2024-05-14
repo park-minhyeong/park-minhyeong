@@ -2,6 +2,7 @@
 
 ## Skills
 ### Languages
+[![Cpp](https://img.shields.io/badge/C++-00589D?style=flat-square&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
 
 ### Web Development
