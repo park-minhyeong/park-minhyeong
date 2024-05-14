@@ -12,12 +12,12 @@
 <!-- ![TailwindCSS](https://img.shields.io/badge/Tailwindcss-06B6D4?style=flat-square&logo=Tailwindcss&logoColor=white) --->
 
 ### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)](https://mariadb.org/)
 
 ### Deployment
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)](https://docs.docker.com/manuals/)
-[![Jenkins](https://img.shields.io/badge/Jenkins-335061?style=flat-square&logo=Jenkins&logoColor=white)](https://www.jenkins.io/doc/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)](https://docs.docker.com/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-335061?style=flat-square&logo=Jenkins&logoColor=white)](https://www.jenkins.io/)
 
 ## Statistics
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=park-minhyeong&show_icons=true&theme=dark)
