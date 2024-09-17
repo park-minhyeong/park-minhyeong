@@ -12,6 +12,13 @@
 [![Next Js](https://img.shields.io/badge/Next.js-363636?style=flat-square&logo=Next.js&logoColor=white)](https://nextjs.org/)
 <!-- ![TailwindCSS](https://img.shields.io/badge/Tailwindcss-06B6D4?style=flat-square&logo=Tailwindcss&logoColor=white) --->
 
+### Development Tools
+[![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)](https://axios-http.com/)
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)](https://www.prisma.io/?via=start&gad_source=1)
+[![React-Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=react-query&logoColor=white)](https://tanstack.com/query/v3)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Zustand](https://img.shields.io/badge/Zustand-335061?style=flat-square&logo=zustand&logoColor=white)](https://zustand-demo.pmnd.rs/)
+
 ### Database
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)](https://mariadb.org/)
@@ -25,4 +32,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=park-minhyeong&layout=compact&theme=dark)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=duncan1409)](https://solved.ac/duncan1409)
-
