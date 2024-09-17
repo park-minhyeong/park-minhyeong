@@ -12,7 +12,7 @@
 [![Next Js](https://img.shields.io/badge/Next.js-363636?style=flat-square&logo=Next.js&logoColor=white)](https://nextjs.org/)
 <!-- ![TailwindCSS](https://img.shields.io/badge/Tailwindcss-06B6D4?style=flat-square&logo=Tailwindcss&logoColor=white) --->
 
-### Development Tools
+### Preferred Tools
 [![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)](https://axios-http.com/)
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)](https://www.prisma.io/?via=start&gad_source=1)
 [![React-Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=react-query&logoColor=white)](https://tanstack.com/query/v3)
