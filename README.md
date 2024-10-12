@@ -28,7 +28,7 @@
 [![Jenkins](https://img.shields.io/badge/Jenkins-335061?style=flat-square&logo=Jenkins&logoColor=white)](https://www.jenkins.io/)
 
 ## Statistics
-![GitHub Steak](https://github-readme-streak-stats.herokuapp.com?user=park-minhyeong&theme=tokyonight&hide_border=true)
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=park-minhyeong&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=park-minhyeong&layout=compact&theme=dark)
+![GitHub Steak](https://github-readme-streak-stats.herokuapp.com?user=park-minhyeong&theme=dracula&hide_border=true)
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=park-minhyeong&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=park-minhyeong&layout=compact&theme=dracula)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=duncan1409)](https://solved.ac/duncan1409)
