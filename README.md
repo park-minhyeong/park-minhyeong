@@ -1,14 +1,11 @@
 #### ☕ [I'm a teapot (418)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418)
 
----
-
 ## 🧠 Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00589D?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-4B8BBE?style=flat-square&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 
----
 
 ## 🌐 Web / Server
 ![React](https://img.shields.io/badge/React-00CCFF?style=flat-square&logo=React&logoColor=white)
@@ -18,7 +15,6 @@
 ![Flask](https://img.shields.io/badge/Flask-333333?style=flat-square&logo=Flask&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6db33f?style=flat-square&logo=SpringBoot&logoColor=white)
 
----
 
 ## 🧰 Tools
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
@@ -28,7 +24,6 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 
----
 
 ## 🗄️ Database / Infra
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
@@ -38,7 +33,6 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![NCP](https://img.shields.io/badge/Naver_Cloud_Platform-2DB400?style=flat-square&logo=ncp&logoColor=white)
 
----
 
 ## 📊 Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=park-minhyeong&theme=react&hide_border=true)
