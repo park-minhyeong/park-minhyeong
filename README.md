@@ -22,6 +22,9 @@
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![Zustand](https://img.shields.io/badge/Zustand-335061?style=flat-square&logo=zustand&logoColor=white)](https://zustand-demo.pmnd.rs/)
 
+### Testing
+[![Vitest](https://img.shields.io/badge/Vitest-5A29E4?style=flat-square&logo=Vitest&logoColor=white)](https://axios-http.com/)
+
 ### Database
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)](https://mariadb.org/)
