@@ -23,7 +23,7 @@
 [![Zustand](https://img.shields.io/badge/Zustand-335061?style=flat-square&logo=zustand&logoColor=white)](https://zustand-demo.pmnd.rs/)
 
 ### Testing
-[![Vitest](https://img.shields.io/badge/Vitest-5A29E4?style=flat-square&logo=Vitest&logoColor=white)](https://axios-http.com/)
+[![Vitest](https://img.shields.io/badge/vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)](https://vitest.dev/)
 
 ### Database
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
