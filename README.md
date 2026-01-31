@@ -33,9 +33,3 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![NCP](https://img.shields.io/badge/Naver_Cloud_Platform-2DB400?style=flat-square&logo=ncp&logoColor=white)
 
-
-## 📊 Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=park-minhyeong&theme=react&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=park-minhyeong&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=park-minhyeong&layout=compact&theme=react)
-[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=duncan1409)](https://solved.ac/duncan1409)
