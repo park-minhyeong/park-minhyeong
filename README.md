@@ -18,6 +18,7 @@
 
 
 ## 🧰 Tools
+![Lang Chain](https://img.shields.io/badge/Lang_Chain-333333?style=flat-square&logo=Lang_Chain&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
