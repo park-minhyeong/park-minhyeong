@@ -13,6 +13,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=Express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-333333?style=flat-square&logo=Flask&logoColor=white)
+![Fast API](https://img.shields.io/badge/Fast_API-333333?style=flat-square&logo=Flask&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6db33f?style=flat-square&logo=SpringBoot&logoColor=white)
 
 
