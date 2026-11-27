@@ -1,4 +1,3 @@
-# Minhyeong Park
 I debugged an operations floor before I debugged code. Tools lived wherever the last person left them, supplies ran out without warning, and workflows crossed each other all day. Three symptoms, one cause: nothing had a fixed position or a fixed direction.
 
 The fix was not working harder. Everything got one place, work flowed in one direction, and every area got a boundary. A single source of truth, a one-way flow, and clear boundaries. The floor went quiet.
