@@ -1,37 +1,22 @@
-#### ☕ [I'm a teapot (418)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418)
+# Minhyeong Park
+I debugged an operations floor before I debugged code. Tools lived wherever the last person left them, supplies ran out without warning, and workflows crossed each other all day. Three symptoms, one cause: nothing had a fixed position or a fixed direction.
 
-## 🧠 Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00589D?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-4B8BBE?style=flat-square&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+The fix was not working harder. Everything got one place, work flowed in one direction, and every area got a boundary. A single source of truth, a one-way flow, and clear boundaries. The floor went quiet.
 
+I apply the same design to systems.
 
-## 🌐 Web / Server
-![React](https://img.shields.io/badge/React-00CCFF?style=flat-square&logo=React&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-363636?style=flat-square&logo=Next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=Express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-333333?style=flat-square&logo=Flask&logoColor=white)
-![Fast API](https://img.shields.io/badge/Fast_API-333333?style=flat-square&logo=FastAPI&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6db33f?style=flat-square&logo=SpringBoot&logoColor=white)
+## Where I look first
+Systems rarely fail inside a component. They fail where two things meet: cache and database, edge and origin, package and consumer, config and deploy, one service and the next. When something breaks, I go to the seam before I go to the code.
 
+## What I hold to
+- There is one source of truth. Everything else is a copy that can be stale, and is treated that way.
+- Load is moved, not absorbed. Edge before origin, queue before process, worker before request.
+- Boundaries exist to contain failure, not to organize code. A boundary that does not limit blast radius is a folder.
+- Order is part of correctness. Dependencies ship in order, and concurrency is proven, not assumed.
+- If it only works on this machine, it does not work. A build is derived from committed state and nothing else.
+- A system you cannot see is a system you cannot run. Logs, metrics, and traces are part of the design, not the aftermath.
+- Automation does the repetition. People do the judgment. The point where they hand off is a design decision.
+- Quality is not inspected in at the end. It is built into the process, and the pipeline is the gate.
 
-## 🧰 Tools
-![Lang Chain](https://img.shields.io/badge/Lang_Chain-333333?style=flat-square&logo=Lang_Chain&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-335061?style=flat-square&logo=zustand&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
-
-
-## 🗄️ Database / Infra
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-335061?style=flat-square&logo=Jenkins&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![NCP](https://img.shields.io/badge/Naver_Cloud_Platform-2DB400?style=flat-square&logo=ncp&logoColor=white)
-
+## What I measure
+How long a change takes to reach production. How long a failure takes to recover. How often the same failure comes back.
